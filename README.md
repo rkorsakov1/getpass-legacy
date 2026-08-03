@@ -1,4 +1,7 @@
 # <img src="logo/logo.ico" width="32" height="32"> getpass
+
+* New repository: https://github.com/rkorsakov1/getpass
+
  Getpass is open source cross-platform stateless password manager (generator). 
  No internet connection or other type of communication is required.
 # platforms
